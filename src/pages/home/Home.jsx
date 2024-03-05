@@ -1,7 +1,7 @@
 import React from 'react'
 import Banner from '../../components/banner/Banner.jsx'
 import Cards from '../../components/cards/Cards.jsx'
-import Container from '../../components/Container/Container.jsx'
+import Container from '../../components/container/Container.jsx'
 import bannerHome from '../../assets/images/banner-img.png'
 function Home() {
   return (

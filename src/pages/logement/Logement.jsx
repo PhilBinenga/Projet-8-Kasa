@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import data from '../../data/logements.json'
-import Slide from '../../components/Slide/Slide.jsx';
+import Slide from '../../components/slide/Slide.jsx';
 import Error from '../../pages/error/Error.jsx'
 import Collapse from '../../components/collapse/Collapse.jsx';
 import Rating from '../../components/rating/Rating.jsx';

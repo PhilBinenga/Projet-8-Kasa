@@ -1,7 +1,7 @@
 import React from 'react'
 import bannerImg from '../../assets/images/banner-img2.png'
-import Banner from '../../components/banner/Banner.jsx'
-import Collapse from '../../components/collapse/Collapse.jsx'
+import Banner from '../../components/banner/banner.jsx'
+import Collapse from '../../components/collapse/collapse.jsx'
 import './about.scss'
 function About() {
   

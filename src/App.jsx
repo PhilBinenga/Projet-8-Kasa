@@ -1,11 +1,11 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Header from './components/header/Header.jsx'
-import Footer from './components/footer/Footer.jsx'
-import Home from './pages/home/Home.jsx'
-import About from './pages/about/About.jsx'
-import Logement from './pages/logement/Logement.jsx'
-import Error from './pages/error/Error.jsx'
+import Header from './components/header/header.jsx'
+import Footer from './components/footer/footer.jsx'
+import Home from './pages/home/home.jsx'
+import About from './pages/about/about.jsx'
+import Logement from './pages/logement/logement.jsx'
+import Error from './pages/error/error.jsx'
 function App() {
   return (
     <BrowserRouter>

@@ -4,6 +4,7 @@ import arrowUp from '../../assets/images/collapseup.png'
 import './collapse.scss'
 function Collapse({title, content}) {
 
+  
     const [ open, setOpen] = useState(false)
 
     const toggle = () => {
